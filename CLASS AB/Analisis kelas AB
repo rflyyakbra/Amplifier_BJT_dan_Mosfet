@@ -1,0 +1,7 @@
+Amplifier kelas AB adalah jenis amplifier yang merupakan perpaduan antara amplifier kelas A dan kelas B.
+Maka menghasilkan penguatan gelombang yang lebih efisien dan mengurangi distorsi crossover seperti yang terjadi pada kelas B.
+Menggunakan dua transistor output, transistor pertama untuk menguatkan sinyal positif 
+dan transistor kedua untuk menguatkan sinyal negatif. Transistor ini dioperasikan dengan bergantian,
+sehingga salah satu transistor mengendalikan output sementara yang lainnya beristirahat.
+Karena itulah kelas AB dapat mengurangi distorsi crossover yang sering terjadi pada amplifier kelas B,
+juga meningkatkan efisiensi dibandingkan dengan amplifier kelas A.
