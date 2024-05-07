@@ -1,0 +1,5 @@
+Dibandingkan dengan Amplifier kelas A, Amplifier kelas B memiliki tingkat efisiensi yang lebih tinggi,
+dan lebih efisien dari segi daya dan suhu karena menggunakan dua transistor.
+Dimana transistor pertama memperkuat setengah sinyal input dan transistor kedua menguatkan setengah sinyal lainnya.
+Amplifier kelas B juga memiliki kelemahan yaitu distorsi crossover, 
+yang terjadi ketika perpindahan antara transistor pertama dan kedua tidak mulus.
